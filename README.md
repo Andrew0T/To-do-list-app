@@ -10,4 +10,4 @@ A basic To-Do-List app with the following features:
     
     The user can change the order of items in the list of items.
 
-Link:  https://andrew0t.github.io/to-do-list.app
+Link:  https://andrew0t.github.io/to-do-list-app
