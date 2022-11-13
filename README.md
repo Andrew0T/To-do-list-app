@@ -10,3 +10,5 @@ A basic To-Do-List app with the following features and instructions:
 
     The user can change the order of items in the list of items,
     by clicking on and holding the left mouse button then moving up or down the list.
+
+    The user can delete the complete list by hitting the 'Enter' button.
