@@ -42,4 +42,4 @@ function deleteListItem(){
    
    $('#list').sortable();
 
-});
+})();
