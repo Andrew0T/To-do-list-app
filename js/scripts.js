@@ -1,5 +1,5 @@
 // Adding a new item to the list of items:
-function newItem(){
+let todoList = (function newItem(){
 
    let li = $('<li></li>');   // stores each li element as a variable
 
@@ -42,4 +42,4 @@ function deleteListItem(){
    
    $('#list').sortable();
 
-}
+});
